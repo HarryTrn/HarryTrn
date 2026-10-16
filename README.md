@@ -3,11 +3,11 @@
 </h1>
 
 <p align="center">
-  <a href="https://github.com/TranThinh2003">
-    <img src="https://img.shields.io/github/followers/TranThinh2003?label=Follow&style=social" alt="GitHub Follow" />
+  <a href="https://github.com/HarryTrn">
+    <img src="https://img.shields.io/github/followers/HarryTrn?label=Follow&style=social" alt="GitHub Follow" />
   </a>
-  <a href="https://www.linkedin.com/in/tr%E1%BA%A7n-th%E1%BB%8Bnh-2d3y1206/">
-    <img src="https://img.shields.io/badge/LinkedIn-Thinh%20Tran-blue?style=flat-square&logo=linkedin" />
+  <a href="https://www.linkedin.com/in/th%E1%BB%8Bnh-tr%E1%BA%A7n-1452082ba/">
+    <img src="https://img.shields.io/badge/LinkedIn-Thinh%20Tran-blue?style=flat-square&logo=linkedin"/>
   </a>
   <a href="mailto:tranthinh150503@gmail.com">
     <img src="https://img.shields.io/badge/Email-tranthinh150503@gmail.com-red?style=flat-square&logo=gmail&logoColor=white" />
@@ -18,7 +18,7 @@
 
 <div align="center">
 
-🔭 I’m currently working on **AI Model Deployment & Computer Vision**
+🔭 I’m currently working on **AI Agent & Computer Vision**
 
 🌱 I’m currently learning **MLOps, LLMs and AI Infrastructure**
 
